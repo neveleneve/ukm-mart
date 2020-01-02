@@ -42,8 +42,8 @@
             </div>
             <div class="card-footer">
               <div class="btn-wrapper text-center d-flex justify-content-between">
-                <a class="btn btn-success d-flex align-items-center fa-shopping-cart"></a>
-                <a class="btn btn-warning d-flex align-items-center fa-heart"></a>
+                <a class="btn btn-primary d-flex align-items-center fa fa-shopping-cart"></a>
+                <a class="btn btn-info d-flex align-items-center fa fa-heart"></a>
               </div>
             </div>
           </div>
