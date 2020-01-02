@@ -1,4 +1,8 @@
 /* Custom CSS For UKM MART */
-.midImage{
+.middleThing{
     text-align: center;
+}
+.sizeproduct{
+    height: 120px;
+    width: 120px;
 }
